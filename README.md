@@ -8,6 +8,7 @@ This demo is a requirement of Module 1, Scripting with Python and SQL for Data E
 4. Record a Demo Video to document the project.
 
 ## Watch the Video Tutorial
+[![Watch the Video Tutorial](https://img.youtube.com/vi/9SD3eUAr5kY/0.jpg)](https://youtu.be/9SD3eUAr5kY)
 
 In this case, I filtered the dataset based on the word 'sweet' in the notes column of the dataset. I used `pandas` to read the `wine-ratings-small.csv` into a dataframe, filter that dataframe, and export the results to a JSON file named `sweet-wine-ratings.json`.
 
